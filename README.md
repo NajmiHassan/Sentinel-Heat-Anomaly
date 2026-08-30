@@ -1,3 +1,11 @@
+> ### 🔥 Hackathon submission — Team Ember Index
+> **Sentinel**, an unsupervised urban heat anomaly detector built on this quickstart.
+> Track 05 — Model Designing. **[→ Read our submission](ember_index_contrib/README.md)**
+>
+> *Everything below is the original FortyGuard quickstart documentation.*
+
+---
+
 # Temperature API Quickstart
 
 A Python + Jupyter sandbox for the [FortyGuard tOS Enterprise API](https://api.fortyguard.com). Drop in your API key and run a notebook — you'll get a heatmap, a heat-intelligence PDF, or an environmental-parameter time series in minutes.
