@@ -168,7 +168,7 @@ Forked from FortyGuard's `temperature-api-quickstart`. The `fortyguard/`,
 `notebooks/`, `data/`, and `docs/` directories are upstream. Our contribution is
 `ember_index_contrib/` and `streamlit/`.
 
-Data retrieved via the FortyGuard tOS Enterprise API.
+Data retrieved via the FortyGuard tOS Enterprise API. Data download via the API: [Sumbal Fatima](https://github.com/Sumbal-Fatima).
 
 ---
 
